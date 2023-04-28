@@ -21,7 +21,7 @@ const websites: WebsitesData = {
         id: "my-email",
         title: "Email",
         img: "img/sites/outlook.png",
-        link: "mailto:renovamenzxh@gmail.com"
+        link: "mailto:zhengshugan@outlook.com"
       }
     ]
   },

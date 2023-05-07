@@ -370,7 +370,7 @@ export default class Terminal extends Component<{}, TerminalState> {
       <div key={`terminal-input-row-${id}`} className="w-full h-6 flex">
         <div className="w-max hstack">
           <span className="text-yellow-200">
-            zou@macbook-pro{" "}
+            zhengshugan@macbook-pro{" "}
             <span className="text-green-300">{this.getCurDirName()}</span>
           </span>
           <span className="ml-1.5 text-red-400">{">"}</span>
